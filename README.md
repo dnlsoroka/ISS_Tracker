@@ -3,10 +3,7 @@
 
  The program includes the following features:  
  -Fetches the current latitude and longitude of the ISS from the "http://api.open-notify.org/iss-now.json" API. 
-
  -Utilizes the Turtle graphics library to draw the path of the ISS on a world map. 
-
  -Displays the ISS marker on the map using a custom GIF image. 
-
  -Uses the Folium library to visualize the ISS movement on an interactive map.
- 
+
